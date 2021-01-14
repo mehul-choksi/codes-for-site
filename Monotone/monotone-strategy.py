@@ -21,3 +21,4 @@ while lo <= hi:
 		# because f(x) is a monotone, we can argue that f(x-k) will never satisfy the constraints (where k is some positive constant)
 		# Hence we discard range [lo, x]
 		lo = mid+1
+#print(ans)
